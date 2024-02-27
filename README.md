@@ -1,2 +1,2 @@
-# Aprendiendo-React
- Ejercicios react
+# Learning-ReactJS
+ Excercises to learn ReactJS 
